@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">databaselab4</string>
+    <string name="ActiveCostumer">Active Costumer</string>
+    <string name="CostumerName">Costumer Name</string>
+    <string name="age">age</string>
+    <string name="add">add</string>
+    <string name="ViewAll">View All</string>
+</resources>
